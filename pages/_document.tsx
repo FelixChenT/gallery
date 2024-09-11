@@ -8,19 +8,19 @@ class MyDocument extends Document {
           <link rel="icon" href="/favicon.ico" />
           <meta
             name="description"
-            content="Focus on Product & AI."
+            content="無限進步 | Promotion"
           />
-          <meta property="og:site_name" content="gallery.kinpoeray.store" />
+          <meta property="og:site_name" content="gallery.felixchen.top" />
           <meta
             property="og:description"
-            content="Focus on Product & AI."
+            content="無限進步 | Promotion"
           />
-          <meta property="og:title" content="Kinpoe.Ray's Gallery" />
+          <meta property="og:title" content="Felix.Chen's Gallery" />
           <meta name="twitter:card" content="summary_large_image" />
-          <meta name="twitter:title" content="Kinpoe.Ray's Gallery" />
+          <meta name="twitter:title" content="Felix.Chen's Gallery" />
           <meta
             name="twitter:description"
-            content="Focus on Product & AI."
+            content="無限進步 | Promotion"
           />
         </Head>
         <body className="bg-black antialiased">
